@@ -1,0 +1,5 @@
+.vscode
+pruebas.py
+.pytest_cache
+_pycache_
+
