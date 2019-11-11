@@ -1,5 +1,4 @@
 def duplicate_encode(word):
-    
     word_encoded=""
     word=word.lower()
     for caracter in word:
